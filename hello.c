@@ -8,6 +8,9 @@
 #include<stdlib.h>
 #include<stdio.h>
 int main(int argc, char **argv) {
+
 printf("Tyler Jaques\n");
+printf("Electrical Engineering\n");
+
 return 0;
 }
